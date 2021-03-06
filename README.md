@@ -5,7 +5,7 @@ vs2015 opencv caffe c++口罩检测
 
 ![result](./img/demo.gif)
 
-#### 0x02 modle convert
+#### 0x02 model convert
 参考：https://github.com/cypw/MXNet2Caffe
 
 过程:
